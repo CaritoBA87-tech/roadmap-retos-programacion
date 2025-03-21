@@ -1,6 +1,6 @@
-![https://retosdeprogramacion.com](./Images/header.jpg)
+![https://retosdeprogramacion.com](./Images/header.jpg) 
 
-# Roadmap retos de programación 2024
+# Roadmap retos de programación 2024 HAHAHAHA
 
 ### Ruta de estudio con ejercicios para mejorar tu lógica de programación y aprender cualquier lenguaje. Gratis, a tu ritmo y en comunidad.
 
